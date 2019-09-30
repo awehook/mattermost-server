@@ -33,7 +33,7 @@ services:
   openldap:
     container_name: mattermost-openldap
     ports:
-      - "389:389"
+      - "3890:389"
       - "636:636"
     extends:
         file: build/docker-compose.common.yml

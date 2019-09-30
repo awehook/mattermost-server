@@ -250,7 +250,7 @@
         "Enable": false,
         "EnableSync": false,
         "LdapServer": "",
-        "LdapPort": 389,
+        "LdapPort": 3890,
         "ConnectionSecurity": "",
         "BaseDN": "",
         "BindUsername": "",
